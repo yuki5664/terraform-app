@@ -1,5 +1,5 @@
-# network(vpc)のterraformは別リポジトリにあります。
-
+# terraform練習用
+# network(vpc)のterraformは別リポジトリにある
 ## 1-0 インスタンス用の秘密鍵を生成
 
 ```
